@@ -1,0 +1,8 @@
+2020-11-19T01:42:06+00:00 CRITICAL Uncaught Error: Call to undefined function wc_print_notices() in C:\xampp\htdocs\michael\projetos\git\freela\melhoresgpbrasil\wp-content\plugins\dc-woocommerce-multi-vendor\templates\shortcode\vendor_registration.php:2
+Stack trace:
+#0 C:\xampp\htdocs\michael\projetos\git\freela\melhoresgpbrasil\wp-content\plugins\dc-woocommerce-multi-vendor\classes\class-wcmp-template.php(38): include()
+#1 C:\xampp\htdocs\michael\projetos\git\freela\melhoresgpbrasil\wp-content\plugins\dc-woocommerce-multi-vendor\classes\shortcode\class-wcmp-shortcode-vendor-registration.php(40): WCMp_Template->get_template('shortcode/vendo...')
+#2 C:\xampp\htdocs\michael\projetos\git\freela\melhoresgpbrasil\wp-content\plugins\dc-woocommerce-multi-vendor\classes\class-wcmp-shortcode.php(89): WCMp_Vendor_Registration_Shortcode::output(Array)
+#3 C:\xampp\htdocs\michael\projetos\git\freela\melhoresgpbrasil\wp-content\plugins\dc-woocommerce-multi-vendor\classes\class-wcmp-shortcode.php(65): WCMp_Shortcode::shortcode_wrapper(Array)
+#4 C:\xampp\htdo, em C:\xampp\htdocs\michael\projetos\git\freela\melhoresgpbrasil\wp-content\plugins\dc-woocommerce-multi-vendor\templates\shortcode\vendor_registration.php, na linha 2
+

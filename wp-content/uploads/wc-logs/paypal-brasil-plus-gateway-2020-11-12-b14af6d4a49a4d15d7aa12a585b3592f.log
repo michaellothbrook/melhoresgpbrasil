@@ -1,0 +1,40 @@
+11-12-2020 @ 20:07:51 - Fazendo requisição (POST) para https://api.sandbox.paypal.com/v1/oauth2/token:
+grant_type=client_credentials
+
+11-12-2020 @ 20:07:52 - Fazendo requisição (GET) para https://api.sandbox.paypal.com/v1/notifications/webhooks
+
+11-12-2020 @ 20:07:53 - Resposta da requisição:
+{"webhooks":[{"id":"8H493304VC378732F","url":"https://example.com/?wc-api=paypal-brasil-plus-gateway","event_types":[{"name":"PAYMENT.SALE.COMPLETED","description":"A sale completes.","status":"ENABLED"},{"name":"PAYMENT.SALE.DENIED","description":"The state of a sale changes from pending to denied.","status":"ENABLED"},{"name":"PAYMENT.SALE.PENDING","description":"The state of a sale changes to pending.","status":"ENABLED"},{"name":"PAYMENT.SALE.REFUNDED","description":"A merchant refunds a sale.","status":"ENABLED"},{"name":"PAYMENT.SALE.REVERSED","description":"PayPal reverses a sale.","status":"ENABLED"}],"links":[{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"self","method":"GET"},{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"update","method":"PATCH"},{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"delete","method":"DELETE"}]}]}
+
+11-12-2020 @ 20:07:53 - Resposta da requisição completa:
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Language: pt_br
+Content-Length: 980
+Content-Type: application/json
+Date: Thu, 12 Nov 2020 22:07:52 GMT
+Paypal-Debug-Id: dbc72d3938ba6
+Connection: close
+
+{"webhooks":[{"id":"8H493304VC378732F","url":"https://example.com/?wc-api=paypal-brasil-plus-gateway","event_types":[{"name":"PAYMENT.SALE.COMPLETED","description":"A sale completes.","status":"ENABLED"},{"name":"PAYMENT.SALE.DENIED","description":"The state of a sale changes from pending to denied.","status":"ENABLED"},{"name":"PAYMENT.SALE.PENDING","description":"The state of a sale changes to pending.","status":"ENABLED"},{"name":"PAYMENT.SALE.REFUNDED","description":"A merchant refunds a sale.","status":"ENABLED"},{"name":"PAYMENT.SALE.REVERSED","description":"PayPal reverses a sale.","status":"ENABLED"}],"links":[{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"self","method":"GET"},{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"update","method":"PATCH"},{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"delete","method":"DELETE"}]}]}
+
+11-12-2020 @ 20:08:15 - Fazendo requisição (POST) para https://api.sandbox.paypal.com/v1/oauth2/token:
+grant_type=client_credentials
+
+11-12-2020 @ 20:08:16 - Fazendo requisição (GET) para https://api.sandbox.paypal.com/v1/notifications/webhooks
+
+11-12-2020 @ 20:08:17 - Resposta da requisição:
+{"webhooks":[{"id":"8H493304VC378732F","url":"https://example.com/?wc-api=paypal-brasil-plus-gateway","event_types":[{"name":"PAYMENT.SALE.COMPLETED","description":"A sale completes.","status":"ENABLED"},{"name":"PAYMENT.SALE.DENIED","description":"The state of a sale changes from pending to denied.","status":"ENABLED"},{"name":"PAYMENT.SALE.PENDING","description":"The state of a sale changes to pending.","status":"ENABLED"},{"name":"PAYMENT.SALE.REFUNDED","description":"A merchant refunds a sale.","status":"ENABLED"},{"name":"PAYMENT.SALE.REVERSED","description":"PayPal reverses a sale.","status":"ENABLED"}],"links":[{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"self","method":"GET"},{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"update","method":"PATCH"},{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"delete","method":"DELETE"}]}]}
+
+11-12-2020 @ 20:08:17 - Resposta da requisição completa:
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Language: pt_br
+Content-Length: 980
+Content-Type: application/json
+Date: Thu, 12 Nov 2020 22:08:16 GMT
+Paypal-Debug-Id: 712b514b75c46
+Connection: close
+
+{"webhooks":[{"id":"8H493304VC378732F","url":"https://example.com/?wc-api=paypal-brasil-plus-gateway","event_types":[{"name":"PAYMENT.SALE.COMPLETED","description":"A sale completes.","status":"ENABLED"},{"name":"PAYMENT.SALE.DENIED","description":"The state of a sale changes from pending to denied.","status":"ENABLED"},{"name":"PAYMENT.SALE.PENDING","description":"The state of a sale changes to pending.","status":"ENABLED"},{"name":"PAYMENT.SALE.REFUNDED","description":"A merchant refunds a sale.","status":"ENABLED"},{"name":"PAYMENT.SALE.REVERSED","description":"PayPal reverses a sale.","status":"ENABLED"}],"links":[{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"self","method":"GET"},{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"update","method":"PATCH"},{"href":"https://api.sandbox.paypal.com/v1/notifications/webhooks/8H493304VC378732F","rel":"delete","method":"DELETE"}]}]}
+

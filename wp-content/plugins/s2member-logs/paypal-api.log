@@ -1,0 +1,270 @@
+LOG ENTRY: Thu Nov 19th, 2020 @ precisely 4:57 am UTC
+PHP v7.3.3 :: WordPress v5.5.3 :: s2Member v200301
+Memory 83.90 MB :: Real Memory 12.00 MB :: Peak Memory 83.96 MB :: Real Peak Memory 12.00 MB
+localhost/michael/projetos/git/freela/melhoresgpbrasil/wp-json/wp/v2/pages/11845?_locale=user
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+-------- Input vars: ( Thu Nov 19, 2020 4:57:20 am UTC ) --------
+array (
+  'METHOD' => 'BMCreateButton',
+  'BUTTONCODE' => 'ENCRYPTED',
+  'BUTTONTYPE' => 'SUBSCRIBE',
+  'L_BUTTONVAR0' => 'business=layhenerodrigues@yahoo.com.br',
+  'L_BUTTONVAR1' => 'notify_url=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_notify=1',
+  'L_BUTTONVAR2' => 'cancel_return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/',
+  'L_BUTTONVAR3' => 'return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_return=1&s2member_paypal_return_tra=ZGVmNTAyMDA4NTUyMGJiZWQ1OTBlOWRjMGNhZDBhZGRjYTRkOWU4YzhkMTEwYTMyYmJiZmQ4ZTg4YzQzMTYzOWVjY2FkZjhjNjY0M2FiYjJiZjU4MzY4YWYxNzVkNzMwOTVjNTQ2YWRlODc5MWI5ZDY4MThmYWVjZDg0ZTM0ZDM3ZGY5YWRiZjRjN2RiYzQ1NmM0ZGI1NmFlYTA4NzE1ODIwNjY0NjlhZGM1ZDgzNzU1ZWIyNmEyZjRhMDlmNDljYjI4ZDJmMzk2NTA5NzNhOTg4OTE0NGM4YzljYjBlM2Y0NmQwYmNmMDM3MGM1ODlmYTMzYWVjMjgyNzE0NzdhZDc2NzY1ODYyNTBhMzM2ODY0MDhlNTczMTEzZmIyYmQ3MDRkMGI2YmU0ZjRlZmE0Y2ZiOTI2ZWQzOTY5N2VjMGU1Y2RmYmJiOWI3MmQ3Yjc1NGYxYjZlM2Y0ODVmOWQ5M2Y1M2EzMDdkMTBhOGNmMDdkYmY2NTFlMWJmMGI0ZDM3YjVkNGI1ZjlhMjI3NWFmZTY0NGU0ZWUwZjQ5ZWRlMTVjYzFjNDllZWEyMTAzYTljM2RiZDc5MDgwZWE2YjMyYmVmODI3NDQ2MjM0NWFkZjY4ZTExOGI0MTJmMGUwYWRhMDE4NDUyZTYwZWM2ZTQ2MjBiZWYyZTllODRhNmYxOGJiMjQxMTAzN2E3MzFjYWRjZjI4MjEwYjA1N2JmNjM1YjdjZWIyOTAwMTA3NDE5NjlhNzdkM2Y3MjkzMDAzMGY5Yjg2MTEwMGM3NDY5NzI5ZmM0MjlhNWZkYWZlYTgyYTc3N2FlMDIyNGZhNmIzNjIxOGM3ZmQ4ZTQyM2ZmZWE3YzRkMWEzYzJiNGQxY2YxODBjZDU4NDgzYmU1ZTJjNjc1ZWY3ZWIyMGIzZg',
+  'L_BUTTONVAR4' => 'rm=2',
+  'L_BUTTONVAR5' => 'no_shipping=1',
+  'L_BUTTONVAR6' => 'no_note=1',
+  'L_BUTTONVAR7' => 'custom=localhost',
+  'L_BUTTONVAR8' => 'currency_code=BRL',
+  'L_BUTTONVAR9' => 'page_style=paypal',
+  'L_BUTTONVAR10' => 'charset=utf-8',
+  'L_BUTTONVAR11' => 'item_name=Membro Bronze / descrição e detalhes de preços aqui.',
+  'L_BUTTONVAR12' => 'item_number=1',
+  'L_BUTTONVAR13' => 'invoice=5fb5fb30e2ee1~::1',
+  'L_BUTTONVAR14' => 'on0=Referencing Customer ID',
+  'L_BUTTONVAR15' => 'os0=1',
+  'L_BUTTONVAR16' => 'on1=Customer IP Address',
+  'L_BUTTONVAR17' => 'os1=::1',
+  'L_BUTTONVAR18' => 'modify=0',
+  'L_BUTTONVAR19' => 'src=1',
+  'L_BUTTONVAR20' => 'sra=1',
+  'L_BUTTONVAR21' => 'a3=150.00',
+  'L_BUTTONVAR22' => 'p3=1',
+  'L_BUTTONVAR23' => 't3=M',
+  'VERSION' => '71.0',
+  'USER' => 'sb-acvsy3786842_api1.business.example.com',
+  'PWD' => 'xxxxxxxx/PWD/SIG',
+  'SIGNATURE' => 'xxxxxxxx/PWD/SIG',
+)
+-------- Output string/vars: ( Thu Nov 19, 2020 4:57:22 am UTC ) --------
+TIMESTAMP=2020%2d11%2d19T04%3a57%3a22Z&CORRELATIONID=cc00db8d28a05&ACK=Failure&VERSION=71%2e0&BUILD=54790461&L_ERRORCODE0=11928&L_SHORTMESSAGE0=Invalid%20Argument&L_LONGMESSAGE0=The%20email%20or%20merchant%20ID%20specified%20is%20invalid%2e&L_SEVERITYCODE0=Error
+array (
+  'TIMESTAMP' => '2020-11-19T04:57:22Z',
+  'CORRELATIONID' => 'cc00db8d28a05',
+  'ACK' => 'Failure',
+  'VERSION' => '71.0',
+  'BUILD' => '54790461',
+  'L_ERRORCODE0' => '11928',
+  'L_SHORTMESSAGE0' => 'Invalid Argument',
+  'L_LONGMESSAGE0' => 'The email or merchant ID specified is invalid.',
+  'L_SEVERITYCODE0' => 'Error',
+  '__error' => 'Error #11928. Invalid Argument. The email or merchant ID specified is invalid.',
+)
+
+LOG ENTRY: Thu Nov 19th, 2020 @ precisely 4:57 am UTC
+PHP v7.3.3 :: WordPress v5.5.3 :: s2Member v200301
+Memory 83.91 MB :: Real Memory 12.00 MB :: Peak Memory 83.96 MB :: Real Peak Memory 12.00 MB
+localhost/michael/projetos/git/freela/melhoresgpbrasil/wp-json/wp/v2/pages/11845?_locale=user
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+-------- Input vars: ( Thu Nov 19, 2020 4:57:22 am UTC ) --------
+array (
+  'METHOD' => 'BMCreateButton',
+  'BUTTONCODE' => 'ENCRYPTED',
+  'BUTTONTYPE' => 'SUBSCRIBE',
+  'L_BUTTONVAR0' => 'business=layhenerodrigues@yahoo.com.br',
+  'L_BUTTONVAR1' => 'notify_url=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_notify=1',
+  'L_BUTTONVAR2' => 'cancel_return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/',
+  'L_BUTTONVAR3' => 'return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_return=1&s2member_paypal_return_tra=ZGVmNTAyMDA1YmI5MmY3ODA4YjBlZGUwMDI4ZGUxNDdjYWJlM2Q3MDBlM2E2YjUxYTQ3M2ZiNjNiOGFmNzllMTQxMDkxNDM2NzU4NmEzMmZjNGMwMWUzMWYzOGU1MDU4YWVjMGE5ZTEyYTc5M2EyNjU0MTU0OWEyODc0YjQ3NTRhNDI3NmRhZTc5NTQ5Zjk5Y2Q0YzIwNmRlMTNmZDg5OTkxNDI0MjRkZDcxZGJmMmY5ZjEzM2JmOWU2YzY5NjA4MGFlNGFiY2VmNGU3NGM2YzE3ZjE1NTcyMWY3NzRkZTc0MGVjMDRiMGU5YTJiMDE0YmNlNGJlNWQyNGViNTIyOTQ4ZDViZmYwN2RiOGNlMTg0Y2E5NTdjZTU0MmM2ZDlhYTlhYTY5NjE3MjY1Y2I2YTEwMGVmNmFkNDBjY2QxYmIzZDU1MTc0ZGNjNmI4MWJmYzljNGFhOTZiZTc3NDg1OGZlNmU2NTdkMjNjNzVlN2ViYjBmNTA1Y2IxNjIyZmEzN2RkYTgzNDViOWIwNWYzNjBlMzFhM2U0Yjc4ZDk5NjkwN2EwY2M5NTdhZWNlOTA1NDA3YzgxYWE0NDY0ZDA0ZWIxOTU5ZjZjODliZjNlNDkzNjFiNGZjYTUzNDA0OGM4MzZjNGYxZTRkZDQ2NmZjMjdhNWM1Yjg1NjdiYjdhNDY1MTNiYjRkMjY2MjMyMDJhMTIwNWRjY2IxZWRlMDZkZTUxYTVhNjJiNTI1NDhjM2M4YWZkNTEwZDU3ZGI3YjQwMjNkMjZmMDZlOGI2MGM4NGQ4MTRhZDU0OGM0N2VjZjlmNWI3OTM3YjI3Zjg0MTFhYjU2YThmZmQ4NTQzNWIwNzYwYzJhMDQ3ZDUyMDA3ZjYxZTQ5MzRhODU1N2JkMmU2OTkzMTJiMDA2MA',
+  'L_BUTTONVAR4' => 'rm=2',
+  'L_BUTTONVAR5' => 'no_shipping=1',
+  'L_BUTTONVAR6' => 'no_note=1',
+  'L_BUTTONVAR7' => 'custom=localhost',
+  'L_BUTTONVAR8' => 'currency_code=BRL',
+  'L_BUTTONVAR9' => 'page_style=paypal',
+  'L_BUTTONVAR10' => 'charset=utf-8',
+  'L_BUTTONVAR11' => 'item_name=Membro Bronze / descrição e detalhes de preços aqui.',
+  'L_BUTTONVAR12' => 'item_number=1',
+  'L_BUTTONVAR13' => 'invoice=5fb5fb3231564~::1',
+  'L_BUTTONVAR14' => 'on0=Referencing Customer ID',
+  'L_BUTTONVAR15' => 'os0=1',
+  'L_BUTTONVAR16' => 'on1=Customer IP Address',
+  'L_BUTTONVAR17' => 'os1=::1',
+  'L_BUTTONVAR18' => 'modify=0',
+  'L_BUTTONVAR19' => 'src=1',
+  'L_BUTTONVAR20' => 'sra=1',
+  'L_BUTTONVAR21' => 'a3=150.00',
+  'L_BUTTONVAR22' => 'p3=1',
+  'L_BUTTONVAR23' => 't3=M',
+  'VERSION' => '71.0',
+  'USER' => 'sb-acvsy3786842_api1.business.example.com',
+  'PWD' => 'xxxxxxxx/PWD/SIG',
+  'SIGNATURE' => 'xxxxxxxx/PWD/SIG',
+)
+-------- Output string/vars: ( Thu Nov 19, 2020 4:57:23 am UTC ) --------
+TIMESTAMP=2020%2d11%2d19T04%3a57%3a23Z&CORRELATIONID=f279f8cd4a431&ACK=Failure&VERSION=71%2e0&BUILD=54790461&L_ERRORCODE0=11928&L_SHORTMESSAGE0=Invalid%20Argument&L_LONGMESSAGE0=The%20email%20or%20merchant%20ID%20specified%20is%20invalid%2e&L_SEVERITYCODE0=Error
+array (
+  'TIMESTAMP' => '2020-11-19T04:57:23Z',
+  'CORRELATIONID' => 'f279f8cd4a431',
+  'ACK' => 'Failure',
+  'VERSION' => '71.0',
+  'BUILD' => '54790461',
+  'L_ERRORCODE0' => '11928',
+  'L_SHORTMESSAGE0' => 'Invalid Argument',
+  'L_LONGMESSAGE0' => 'The email or merchant ID specified is invalid.',
+  'L_SEVERITYCODE0' => 'Error',
+  '__error' => 'Error #11928. Invalid Argument. The email or merchant ID specified is invalid.',
+)
+
+LOG ENTRY: Thu Nov 19th, 2020 @ precisely 4:57 am UTC
+PHP v7.3.3 :: WordPress v5.5.3 :: s2Member v200301
+Memory 73.49 MB :: Real Memory 12.00 MB :: Peak Memory 74.97 MB :: Real Peak Memory 12.00 MB
+localhost/michael/projetos/git/freela/melhoresgpbrasil/inscricao-de-membro/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+-------- Input vars: ( Thu Nov 19, 2020 4:57:25 am UTC ) --------
+array (
+  'METHOD' => 'BMCreateButton',
+  'BUTTONCODE' => 'ENCRYPTED',
+  'BUTTONTYPE' => 'SUBSCRIBE',
+  'L_BUTTONVAR0' => 'business=layhenerodrigues@yahoo.com.br',
+  'L_BUTTONVAR1' => 'notify_url=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_notify=1',
+  'L_BUTTONVAR2' => 'cancel_return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/',
+  'L_BUTTONVAR3' => 'return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_return=1&s2member_paypal_return_tra=ZGVmNTAyMDBhNTQzODQ5MmVmMWMzY2FhYTQ3YTJiNzc1YjlmZTNjYzcyN2EzZTk1MjI4MWVkZWYxYjJkYTJiYWUxNjBmNThlZmMxNDRiOGE2MTZmMzA2YmY3ZTRlYzg5OTBjMDMyMDBmNGJjYmEyYjJiOTRmOTI0Y2Y5Yzc5NjljNmZkNTIwOWU4YWYyNWQwMjZiNWYwNjQ4ZGQwMDUxZGVhMWExMDExOWI3MzFiYmQ4MDk5NWZkNzk4ZTNlZmEyNTYzYTkzNzM4NTgyZGMzY2JjMjQ1ZjVjMTI3MjIwOGIwODVlZDNlNTI4ZmY5ZDQxOWU1OTQ0MTI2MzZjNzZjNzgxYmZmNTkwNjQxZGY0YWFkZTkwZDQzNTBkYWQ1MjM4YTAwMTY3ZGUzYTI0NjljMGI2MTQxNjU1MTdiYmMxYjllOWNlZDllYjM3YjQ3MDEwNzk1YTY1MGZkYzQ0NDI2NDRkMGFjMjBlMTAxNzYzN2MyYmQ5MTMzMzI2ODQ1YjgzMzE5OWI0NGY2NDYxNzZmNGY2YzFiZjE5YTY2Yjk0OTQ4NDMyYzlmMTVjZTBkMzNkZmYwNWRmMmY1NDhlNzY1YWI3MmViZjU2NmUxOGRjNjQxYTNmM2YzYWQ1Yzg2NTE3NDM5NzlkNTAyMTZkNjgxYjU3OWIzMjFmODczODZmYjljZDY3OGYxNTQ0NjU4NjljNWZlZGU3Y2YxYzAwNjk0MTZkMjA3NWI2Yjk0NjgzNTk3ZmViOGE3Nzg3ODlkNWMzOGJjNDZhNmQ5ODBhYjc4NjkyODIxZGE2YzE5NDBjMjE4NzI0N2Y1Y2Y3ZDRjZmYzOTRmNjJhMmUzNzk3MThjZDFkNjM4YWY1MDdjYTMzOTRjMzY2OGI2ZTI5YTJlODBjMzgzNjk2NmFhOA',
+  'L_BUTTONVAR4' => 'rm=2',
+  'L_BUTTONVAR5' => 'no_shipping=1',
+  'L_BUTTONVAR6' => 'no_note=1',
+  'L_BUTTONVAR7' => 'custom=localhost',
+  'L_BUTTONVAR8' => 'currency_code=BRL',
+  'L_BUTTONVAR9' => 'page_style=paypal',
+  'L_BUTTONVAR10' => 'charset=utf-8',
+  'L_BUTTONVAR11' => 'item_name=Membro Bronze / descrição e detalhes de preços aqui.',
+  'L_BUTTONVAR12' => 'item_number=1',
+  'L_BUTTONVAR13' => 'invoice=5fb5fb357247c~::1',
+  'L_BUTTONVAR14' => 'on0=Referencing Customer ID',
+  'L_BUTTONVAR15' => 'os0=54',
+  'L_BUTTONVAR16' => 'on1=Customer IP Address',
+  'L_BUTTONVAR17' => 'os1=::1',
+  'L_BUTTONVAR18' => 'modify=0',
+  'L_BUTTONVAR19' => 'src=1',
+  'L_BUTTONVAR20' => 'sra=1',
+  'L_BUTTONVAR21' => 'a3=150.00',
+  'L_BUTTONVAR22' => 'p3=1',
+  'L_BUTTONVAR23' => 't3=M',
+  'VERSION' => '71.0',
+  'USER' => 'sb-acvsy3786842_api1.business.example.com',
+  'PWD' => 'xxxxxxxx/PWD/SIG',
+  'SIGNATURE' => 'xxxxxxxx/PWD/SIG',
+)
+-------- Output string/vars: ( Thu Nov 19, 2020 4:57:26 am UTC ) --------
+TIMESTAMP=2020%2d11%2d19T04%3a57%3a26Z&CORRELATIONID=d612347b6e7a9&ACK=Failure&VERSION=71%2e0&BUILD=54790461&L_ERRORCODE0=11928&L_SHORTMESSAGE0=Invalid%20Argument&L_LONGMESSAGE0=The%20email%20or%20merchant%20ID%20specified%20is%20invalid%2e&L_SEVERITYCODE0=Error
+array (
+  'TIMESTAMP' => '2020-11-19T04:57:26Z',
+  'CORRELATIONID' => 'd612347b6e7a9',
+  'ACK' => 'Failure',
+  'VERSION' => '71.0',
+  'BUILD' => '54790461',
+  'L_ERRORCODE0' => '11928',
+  'L_SHORTMESSAGE0' => 'Invalid Argument',
+  'L_LONGMESSAGE0' => 'The email or merchant ID specified is invalid.',
+  'L_SEVERITYCODE0' => 'Error',
+  '__error' => 'Error #11928. Invalid Argument. The email or merchant ID specified is invalid.',
+)
+
+LOG ENTRY: Thu Nov 19th, 2020 @ precisely 4:57 am UTC
+PHP v7.3.3 :: WordPress v5.5.3 :: s2Member v200301
+Memory 96.81 MB :: Real Memory 26.00 MB :: Peak Memory 97.29 MB :: Real Peak Memory 26.00 MB
+localhost/michael/projetos/git/freela/melhoresgpbrasil/wp-admin/post.php?post=11845&action=edit&message=4
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+-------- Input vars: ( Thu Nov 19, 2020 4:57:26 am UTC ) --------
+array (
+  'METHOD' => 'BMCreateButton',
+  'BUTTONCODE' => 'ENCRYPTED',
+  'BUTTONTYPE' => 'SUBSCRIBE',
+  'L_BUTTONVAR0' => 'business=layhenerodrigues@yahoo.com.br',
+  'L_BUTTONVAR1' => 'notify_url=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_notify=1',
+  'L_BUTTONVAR2' => 'cancel_return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/',
+  'L_BUTTONVAR3' => 'return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_return=1&s2member_paypal_return_tra=ZGVmNTAyMDBlOGZhMTc5Y2M5MTQ4NzU4ZGM4NmFhYzNiZDc1NWRjM2IwOTEzYmMxZWYyYTkyOWQ3MTJkY2Y3YmZhMWFhYTUzYTY2ZjgxYThlOGI4NzYyNDNlOTFhYmZhZTFiNzhmZTAxOWVjZDBkYTIyMDc1NWViYjRhYzNiNGFmMDAwMjE0MzRiOWU1MWY2NGNmN2MzMzM2ZWNhNGFmY2NlMGIwNTk3YzcxYWJlNWU4OTg4YTk2MTA0NWE2MGQ5MmQyNjFhZmZlYmE1NDAzNTBhYTFkNmZlMzdkM2IyOGE5YmU3MzY0OWViOGJkOWM0NGViYTRkMzY1OTIwNTk2Mzc5MWRlNTAxZGU0YzA2MDRiYzllMGY5NGRlODdmMWM4OTdlMDNmYzU3NGFlYjFhYjNlOTRlZjFjYjkzZWM5ZTcxMGQ1MGM1NzhlYzYzOTI4NjllMWEwMTRkYzY0MTU5NGU0ZGQwYzEyMWNlYjcwNDU4NjgwYTI0ZjU0Nzc0Y2I5MGEyOWUxNzAxOWI1NWU3YTIwOTQwNzRlYTFlNDE1Y2Y1MjIzYzVlYTljZGJiZWZkZDc3NzE2ZjgzMDI0YTY3YzlmNTdhZTNlMTMyMzJiMjJiMmY4MWNhYTk2NGQ0ZGYwY2UxMDQzZDI3YzE5MDgzNzE4YmFmZDVkZDViN2ZhMGFjMzU3ZGQ0OWQ2NDFjODhiYmM0YjQ0OTFkZWE3YjcxZDc4YWM1MThhODk0ZWQ5ZmE3NWFmMzlmMjgyMWYxYTg5NzNiMzYyYWIwYTdlZGY0NGI5ZTQzMmNhZDk5Yjc3OTI5OTY4ZWU1ZjZiNWFjNzRiYzZlNjBkNWQ3MTUwOTgxYWM2ZWM3N2Y3MzRkNDM5NDE0NGRkYzMxZDkzNTc1ZjY1OTEwNTE4NjEwOQ',
+  'L_BUTTONVAR4' => 'rm=2',
+  'L_BUTTONVAR5' => 'no_shipping=1',
+  'L_BUTTONVAR6' => 'no_note=1',
+  'L_BUTTONVAR7' => 'custom=localhost',
+  'L_BUTTONVAR8' => 'currency_code=BRL',
+  'L_BUTTONVAR9' => 'page_style=paypal',
+  'L_BUTTONVAR10' => 'charset=utf-8',
+  'L_BUTTONVAR11' => 'item_name=Membro Bronze / descrição e detalhes de preços aqui.',
+  'L_BUTTONVAR12' => 'item_number=1',
+  'L_BUTTONVAR13' => 'invoice=5fb5fb364a2c0~::1',
+  'L_BUTTONVAR14' => 'on0=Referencing Customer ID',
+  'L_BUTTONVAR15' => 'os0=1',
+  'L_BUTTONVAR16' => 'on1=Customer IP Address',
+  'L_BUTTONVAR17' => 'os1=::1',
+  'L_BUTTONVAR18' => 'modify=0',
+  'L_BUTTONVAR19' => 'src=1',
+  'L_BUTTONVAR20' => 'sra=1',
+  'L_BUTTONVAR21' => 'a3=150.00',
+  'L_BUTTONVAR22' => 'p3=1',
+  'L_BUTTONVAR23' => 't3=M',
+  'VERSION' => '71.0',
+  'USER' => 'sb-acvsy3786842_api1.business.example.com',
+  'PWD' => 'xxxxxxxx/PWD/SIG',
+  'SIGNATURE' => 'xxxxxxxx/PWD/SIG',
+)
+-------- Output string/vars: ( Thu Nov 19, 2020 4:57:27 am UTC ) --------
+TIMESTAMP=2020%2d11%2d19T04%3a57%3a27Z&CORRELATIONID=6bf5e01091424&ACK=Failure&VERSION=71%2e0&BUILD=54790461&L_ERRORCODE0=11928&L_SHORTMESSAGE0=Invalid%20Argument&L_LONGMESSAGE0=The%20email%20or%20merchant%20ID%20specified%20is%20invalid%2e&L_SEVERITYCODE0=Error
+array (
+  'TIMESTAMP' => '2020-11-19T04:57:27Z',
+  'CORRELATIONID' => '6bf5e01091424',
+  'ACK' => 'Failure',
+  'VERSION' => '71.0',
+  'BUILD' => '54790461',
+  'L_ERRORCODE0' => '11928',
+  'L_SHORTMESSAGE0' => 'Invalid Argument',
+  'L_LONGMESSAGE0' => 'The email or merchant ID specified is invalid.',
+  'L_SEVERITYCODE0' => 'Error',
+  '__error' => 'Error #11928. Invalid Argument. The email or merchant ID specified is invalid.',
+)
+
+LOG ENTRY: Thu Nov 19th, 2020 @ precisely 4:57 am UTC
+PHP v7.3.3 :: WordPress v5.5.3 :: s2Member v200301
+Memory 96.82 MB :: Real Memory 26.00 MB :: Peak Memory 97.29 MB :: Real Peak Memory 26.00 MB
+localhost/michael/projetos/git/freela/melhoresgpbrasil/wp-admin/post.php?post=11845&action=edit&message=4
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+-------- Input vars: ( Thu Nov 19, 2020 4:57:27 am UTC ) --------
+array (
+  'METHOD' => 'BMCreateButton',
+  'BUTTONCODE' => 'ENCRYPTED',
+  'BUTTONTYPE' => 'SUBSCRIBE',
+  'L_BUTTONVAR0' => 'business=layhenerodrigues@yahoo.com.br',
+  'L_BUTTONVAR1' => 'notify_url=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_notify=1',
+  'L_BUTTONVAR2' => 'cancel_return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/',
+  'L_BUTTONVAR3' => 'return=http://localhost/michael/projetos/git/freela/melhoresgpbrasil/?s2member_paypal_return=1&s2member_paypal_return_tra=ZGVmNTAyMDA0MjgyMmI5MzI5NmJlZjdlYmJhZjc2YmNiOTE0MmE3ZmI1NjVmZjhhY2NlOGRkZDZjNzcyNzcxNmMwYzE0N2FlNjMxNGQ0ZDA2YzFkNTNjZDc5NGE0YjRjMWQ1YzdhNzYzNDczMzk5ZTE3MWE1ZmUxMzExMjIxODNkNGQ0ODU2OTY0MjgyNDQwYjUzYWE0ZWI4MjFlNDViYWI1YTAwZWFiMTNkOGZkYTQ4OGU0N2RmMjJhZGM4ZDQ1OGViYzk0MTBiODQwN2FiMWRlNGVkNGMyOWVmMjM2Mzc3MWM0YzFlYmM5Mjk4MTg1Zjg0Y2QwZjkzMDMyNmZjZjMwNTI2NmNjNjg3NzFiZTVkYjcyOGJjYjQ4MDU5MWQ5MTcxZGQxOTllZjY3OTZkMTY1OTllNWM2OGUxYzFmMDM4YmUwMTUzZTk3ZDIwNDY2N2Q1YWVlMTYyZTQ2MTg4ZTBmYTkwYjU3ZTRkNzQwNTQ2YzFkYjNmYjhjNTUxYzdmNTQ3NGM3ZTZhZmFkNzRmZjczNzM4MjQyM2MzMDZlNWExMzQzYmViY2M1ODI5NTE4OGYzNGI1YzJkNDQ5MDE0YzZiZTUzMzIyOTUzOWRmODI3ZDYwYWM4ZjJjN2IwZTU3NDA3NTU3YzIzYmEyMDA5NDQzYjFlMmMzNDA1MTE0ZTQ5NDJkMjQ5NjYyMDM1YjY2YzQ4ZGNkODZjYjkxZmI3MzEwMjYyZmFjMzc0NzcxMTExNDRlMDkwZGVkZmNlYzUzYTZlY2MxOGYxMDQ3ZGJhOWJjZDJlYTNjYzAzODMzNTMxNzdkZjc4Y2YyZGU4MWJjZGJjN2UxOGZjZmNhZDZjNGRkNDliNTc5MGFlZjA2ZDEzODJmMDY3Mjc0MTc2YzIzZTVkNmE2ZGVhNA',
+  'L_BUTTONVAR4' => 'rm=2',
+  'L_BUTTONVAR5' => 'no_shipping=1',
+  'L_BUTTONVAR6' => 'no_note=1',
+  'L_BUTTONVAR7' => 'custom=localhost',
+  'L_BUTTONVAR8' => 'currency_code=BRL',
+  'L_BUTTONVAR9' => 'page_style=paypal',
+  'L_BUTTONVAR10' => 'charset=utf-8',
+  'L_BUTTONVAR11' => 'item_name=Membro Bronze / descrição e detalhes de preços aqui.',
+  'L_BUTTONVAR12' => 'item_number=1',
+  'L_BUTTONVAR13' => 'invoice=5fb5fb37782f5~::1',
+  'L_BUTTONVAR14' => 'on0=Referencing Customer ID',
+  'L_BUTTONVAR15' => 'os0=1',
+  'L_BUTTONVAR16' => 'on1=Customer IP Address',
+  'L_BUTTONVAR17' => 'os1=::1',
+  'L_BUTTONVAR18' => 'modify=0',
+  'L_BUTTONVAR19' => 'src=1',
+  'L_BUTTONVAR20' => 'sra=1',
+  'L_BUTTONVAR21' => 'a3=150.00',
+  'L_BUTTONVAR22' => 'p3=1',
+  'L_BUTTONVAR23' => 't3=M',
+  'VERSION' => '71.0',
+  'USER' => 'sb-acvsy3786842_api1.business.example.com',
+  'PWD' => 'xxxxxxxx/PWD/SIG',
+  'SIGNATURE' => 'xxxxxxxx/PWD/SIG',
+)
+-------- Output string/vars: ( Thu Nov 19, 2020 4:57:28 am UTC ) --------
+TIMESTAMP=2020%2d11%2d19T04%3a57%3a28Z&CORRELATIONID=1287a23c56032&ACK=Failure&VERSION=71%2e0&BUILD=54790461&L_ERRORCODE0=11928&L_SHORTMESSAGE0=Invalid%20Argument&L_LONGMESSAGE0=The%20email%20or%20merchant%20ID%20specified%20is%20invalid%2e&L_SEVERITYCODE0=Error
+array (
+  'TIMESTAMP' => '2020-11-19T04:57:28Z',
+  'CORRELATIONID' => '1287a23c56032',
+  'ACK' => 'Failure',
+  'VERSION' => '71.0',
+  'BUILD' => '54790461',
+  'L_ERRORCODE0' => '11928',
+  'L_SHORTMESSAGE0' => 'Invalid Argument',
+  'L_LONGMESSAGE0' => 'The email or merchant ID specified is invalid.',
+  'L_SEVERITYCODE0' => 'Error',
+  '__error' => 'Error #11928. Invalid Argument. The email or merchant ID specified is invalid.',
+)
+

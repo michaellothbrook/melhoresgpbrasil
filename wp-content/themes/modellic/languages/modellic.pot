@@ -1,0 +1,1254 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2016-08-22 16:38+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: archive-testimonial.php:7 functions.php:196 vc_templates/extend-vc.php:211
+msgid "Testimonials"
+msgstr ""
+
+#: comments.php:26
+msgid "Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:57
+msgid "Name"
+msgstr ""
+
+#: comments.php:58 vc_templates/extend-vc.php:583
+msgid "Email"
+msgstr ""
+
+#: comments.php:66
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:67
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:68
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:69
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:71
+msgid "Comment"
+msgstr ""
+
+#: comments.php:73
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:75
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: content-single.php:9
+msgid "Posted"
+msgstr ""
+
+#: content-single.php:13 content.php:17
+msgid "by"
+msgstr ""
+
+#: content-single.php:17
+msgid "in"
+msgstr ""
+
+#: content-single.php:34 content.php:22
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:38 content.php:26 functions.php:194
+msgid "Page"
+msgstr ""
+
+#: content.php:29 vc_templates/recent-blog-posts.php:53
+msgid "Read more"
+msgstr ""
+
+#: functions.php:26
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:27
+msgid "Top Bar"
+msgstr ""
+
+#: functions.php:142 functions.php:148
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:193
+msgid "Blog"
+msgstr ""
+
+#: functions.php:193
+msgid "Displayed on a blog archive and single post."
+msgstr ""
+
+#: functions.php:194
+msgid "Displayed on pages with sidebar template."
+msgstr ""
+
+#: functions.php:195 inc/customizer.php:155
+msgid "Shop"
+msgstr ""
+
+#: functions.php:195
+msgid "Displayed on a shop archive page."
+msgstr ""
+
+#: functions.php:196
+msgid "Displayed on a testimonials archive page."
+msgstr ""
+
+#: functions.php:197
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:197
+msgid "Displayed on 1 columns of footer."
+msgstr ""
+
+#: functions.php:198
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:198
+msgid "Displayed on 2 columns of footer."
+msgstr ""
+
+#: functions.php:199
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:199
+msgid "Displayed on 3 columns of footer."
+msgstr ""
+
+#: functions.php:200
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: functions.php:200
+msgid "Displayed on 4 columns of footer."
+msgstr ""
+
+#: functions.php:232
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:232
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:255
+msgid "author"
+msgstr ""
+
+#: functions.php:265
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:377
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:378
+msgid "Start shopping"
+msgstr ""
+
+#: functions.php:413
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: functions.php:420
+msgid "out of 5"
+msgstr ""
+
+#: index.php:11
+msgid "Search Results"
+msgstr ""
+
+#: index.php:12
+#, php-format
+msgid "for: \"%s\""
+msgstr ""
+
+#: searchform.php:2
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#: searchform.php:2
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: top-bar.php:10
+msgid ""
+"<li><span>Phone:</span> <a href=\"tel:+1800234567\">+1 800 234 567</a></"
+"li><li><span>Email:</span> <a href=\"mailto:info@modellic.com"
+"\">info@modellic.com</a></li>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1206
+#: inc/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634 vc_templates/extend-vc.php:345
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-wp-widget-facet.php:11
+msgid "Facet Widget"
+msgstr ""
+
+#: inc/class-wp-widget-facet.php:14
+msgid "Put your filter codes in this widget."
+msgstr ""
+
+#: inc/class-wp-widget-facet.php:45
+msgid "Title:"
+msgstr ""
+
+#: inc/class-wp-widget-facet.php:48
+msgid "Content:"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Page Loader"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Show Cart Icon In Menu"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Show Top Bar"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Top Bar Text"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Color Theme"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Main Color Theme"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Brand / Link Color"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Accent Hover Color"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Product Columns"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Number Of Products And Sorting"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Show Attribues"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid ""
+"Select which attributes you want to show on product item by hover. If none "
+"selected means no hover overlay."
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Single Product"
+msgstr ""
+
+#: inc/customizer.php:241
+msgid "Gallery Type"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Horizontal Gallery Width"
+msgstr ""
+
+#: inc/customizer.php:272
+msgid "Horizontal Gallery Position"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Gallery position related to page title"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid "Related Product Columns"
+msgstr ""
+
+#: inc/customizer.php:304
+msgid "Show Categories & Tags"
+msgstr ""
+
+#: inc/customizer.php:316
+msgid "Show Price And Add To Cart"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Product Attributes Suffixes"
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid ""
+"&copy; 2015 Modellic. Web design &amp; development by <a href=\"http://"
+"coffeecreamthemes.com\" target=\"_blank\">Coffeecreamthemes.com</a>"
+msgstr ""
+
+#: inc/customizer.php:364
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Widgetized Footer"
+msgstr ""
+
+#: inc/customizer.php:392
+msgid "Footer Sidebar Column 1"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "Footer Sidebar Column 2"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Footer Sidebar Column 3"
+msgstr ""
+
+#: inc/customizer.php:431
+msgid "Footer Sidebar Column 4"
+msgstr ""
+
+#: inc/plugins.php:25
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/plugins.php:36
+msgid "Slider Revolution"
+msgstr ""
+
+#: inc/plugins.php:47
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/plugins.php:52
+msgid "Kirki"
+msgstr ""
+
+#: inc/plugins.php:57
+msgid "Image Regenerate & Select Crop"
+msgstr ""
+
+#: inc/plugins.php:62
+msgid "Instagram-Feed"
+msgstr ""
+
+#: inc/plugins.php:67
+msgid "Favorites"
+msgstr ""
+
+#: inc/plugins.php:72
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/plugins.php:77
+msgid "Testimonials by WooThemes"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "0"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "1"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "%"
+msgstr ""
+
+#: inc/template-tags.php:177
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/woocommerce-single.php:66
+msgid "About Me"
+msgstr ""
+
+#: inc/woocommerce-single.php:139
+#: woocommerce/single-product/product-attributes.php:44
+#: woocommerce/single-product/tabs/description.php:42
+msgid "Dimensions"
+msgstr ""
+
+#: vc_templates/extend-vc.php:5
+msgid "Date"
+msgstr ""
+
+#: vc_templates/extend-vc.php:6
+msgid "ID"
+msgstr ""
+
+#: vc_templates/extend-vc.php:7
+msgid "Author"
+msgstr ""
+
+#: vc_templates/extend-vc.php:8 vc_templates/extend-vc.php:45
+#: vc_templates/extend-vc.php:78 vc_templates/extend-vc.php:550
+msgid "Title"
+msgstr ""
+
+#: vc_templates/extend-vc.php:9
+msgid "Modified"
+msgstr ""
+
+#: vc_templates/extend-vc.php:10
+msgid "Random"
+msgstr ""
+
+#: vc_templates/extend-vc.php:11
+msgid "Comment count"
+msgstr ""
+
+#: vc_templates/extend-vc.php:12
+msgid "Menu order"
+msgstr ""
+
+#: vc_templates/extend-vc.php:17
+msgid "Descending"
+msgstr ""
+
+#: vc_templates/extend-vc.php:18
+msgid "Ascending"
+msgstr ""
+
+#: vc_templates/extend-vc.php:25
+msgid "HGroup"
+msgstr ""
+
+#: vc_templates/extend-vc.php:27
+msgid "Header group (title and subtitle)"
+msgstr ""
+
+#: vc_templates/extend-vc.php:36
+msgid "Style"
+msgstr ""
+
+#: vc_templates/extend-vc.php:51 vc_templates/extend-vc.php:565
+msgid "Subtitle"
+msgstr ""
+
+#: vc_templates/extend-vc.php:57 vc_templates/extend-vc.php:135
+#: vc_templates/extend-vc.php:200 vc_templates/extend-vc.php:262
+#: vc_templates/extend-vc.php:389 vc_templates/extend-vc.php:489
+msgid "Extra class name"
+msgstr ""
+
+#: vc_templates/extend-vc.php:59 vc_templates/extend-vc.php:137
+#: vc_templates/extend-vc.php:202
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: vc_templates/extend-vc.php:68
+msgid "Pricing Table"
+msgstr ""
+
+#: vc_templates/extend-vc.php:84
+msgid "Price"
+msgstr ""
+
+#: vc_templates/extend-vc.php:90
+msgid "List"
+msgstr ""
+
+#: vc_templates/extend-vc.php:98 vc_templates/extend-vc.php:148
+msgid "Button"
+msgstr ""
+
+#: vc_templates/extend-vc.php:108 vc_templates/extend-vc.php:168
+msgid "Link"
+msgstr ""
+
+#: vc_templates/extend-vc.php:117
+msgid "Product ID"
+msgstr ""
+
+#: vc_templates/extend-vc.php:126
+msgid "Button Text"
+msgstr ""
+
+#: vc_templates/extend-vc.php:159
+msgid "Size"
+msgstr ""
+
+#: vc_templates/extend-vc.php:173 vc_templates/extend-vc.php:595
+msgid "Icon"
+msgstr ""
+
+#: vc_templates/extend-vc.php:180
+msgid "Icon Position"
+msgstr ""
+
+#: vc_templates/extend-vc.php:190
+msgid "Button Align"
+msgstr ""
+
+#: vc_templates/extend-vc.php:213
+msgid "Testimonials carousel"
+msgstr ""
+
+#: vc_templates/extend-vc.php:223
+msgid "Show"
+msgstr ""
+
+#: vc_templates/extend-vc.php:233 vc_templates/extend-vc.php:465
+msgid "Posts"
+msgstr ""
+
+#: vc_templates/extend-vc.php:236
+msgid "How many posts to get."
+msgstr ""
+
+#: vc_templates/extend-vc.php:244
+msgid "Posts ID's"
+msgstr ""
+
+#: vc_templates/extend-vc.php:247
+msgid "Testimonial posts ID's separated by comma, example: 14,95,164."
+msgstr ""
+
+#: vc_templates/extend-vc.php:255 vc_templates/extend-vc.php:382
+#: vc_templates/extend-vc.php:454
+msgid "Carousel Autoplay"
+msgstr ""
+
+#: vc_templates/extend-vc.php:258 vc_templates/extend-vc.php:385
+#: vc_templates/extend-vc.php:457
+msgid ""
+"In milliseconds (1000 = 1 second), example for 5 seconds: 5000. Leave empty "
+"to disable autoplay."
+msgstr ""
+
+#: vc_templates/extend-vc.php:265 vc_templates/extend-vc.php:392
+#: vc_templates/extend-vc.php:492
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: vc_templates/extend-vc.php:274
+msgid "Products Carousel"
+msgstr ""
+
+#: vc_templates/extend-vc.php:284
+msgid "Request"
+msgstr ""
+
+#: vc_templates/extend-vc.php:297
+msgid "Per page"
+msgstr ""
+
+#: vc_templates/extend-vc.php:301
+msgid ""
+"The \"per_page\" shortcode determines how many products to show on the page"
+msgstr ""
+
+#: vc_templates/extend-vc.php:309 vc_templates/extend-vc.php:472
+msgid "Columns"
+msgstr ""
+
+#: vc_templates/extend-vc.php:313
+msgid ""
+"The columns attribute controls how many columns wide the products should be "
+"before wrapping."
+msgstr ""
+
+#: vc_templates/extend-vc.php:321
+msgid "Order by"
+msgstr ""
+
+#: vc_templates/extend-vc.php:325
+#, php-format
+msgid "Select how to sort retrieved products. More at %s."
+msgstr ""
+
+#: vc_templates/extend-vc.php:333
+msgid "Sort order"
+msgstr ""
+
+#: vc_templates/extend-vc.php:337
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: vc_templates/extend-vc.php:347
+msgid ""
+"Select what you would like to use as selecring attribute &mdash; ID or SKU."
+msgstr ""
+
+#: vc_templates/extend-vc.php:360
+msgid "Selected IDs"
+msgstr ""
+
+#: vc_templates/extend-vc.php:363
+msgid "Enter product IDs, sample: 1, 2, 3, 4, 5."
+msgstr ""
+
+#: vc_templates/extend-vc.php:371
+msgid "Selected SKUs"
+msgstr ""
+
+#: vc_templates/extend-vc.php:374
+msgid "Enter product SKUs, sample: foo, bar, baz."
+msgstr ""
+
+#: vc_templates/extend-vc.php:402
+msgid "Instagram Feed"
+msgstr ""
+
+#: vc_templates/extend-vc.php:417
+msgid "Favorites List"
+msgstr ""
+
+#: vc_templates/extend-vc.php:427
+msgid "Include Buttons"
+msgstr ""
+
+#: vc_templates/extend-vc.php:431
+msgid "yes"
+msgstr ""
+
+#: vc_templates/extend-vc.php:432
+msgid "no"
+msgstr ""
+
+#: vc_templates/extend-vc.php:443
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: vc_templates/extend-vc.php:445
+msgid "Carousel with blog posts"
+msgstr ""
+
+#: vc_templates/extend-vc.php:468
+msgid "How many latest posts to get."
+msgstr ""
+
+#: vc_templates/extend-vc.php:482
+msgid "Categories"
+msgstr ""
+
+#: vc_templates/extend-vc.php:485
+msgid "Category ID or several ID's, example: 2,45,34."
+msgstr ""
+
+#: vc_templates/extend-vc.php:501
+msgid "Map"
+msgstr ""
+
+#: vc_templates/extend-vc.php:503
+msgid "Show map container"
+msgstr ""
+
+#: vc_templates/extend-vc.php:514
+msgid "Center map Lat"
+msgstr ""
+
+#: vc_templates/extend-vc.php:516
+msgid "Example: 52.520343301190614"
+msgstr ""
+
+#: vc_templates/extend-vc.php:520
+msgid "Center map Lng"
+msgstr ""
+
+#: vc_templates/extend-vc.php:522
+msgid "Example: 373.4041194381714"
+msgstr ""
+
+#: vc_templates/extend-vc.php:526
+msgid "Zoom"
+msgstr ""
+
+#: vc_templates/extend-vc.php:528
+msgid "Zoom (Default = 14)"
+msgstr ""
+
+#: vc_templates/extend-vc.php:532
+msgid "Language"
+msgstr ""
+
+#: vc_templates/extend-vc.php:534
+msgid "Map language (Default = en)"
+msgstr ""
+
+#: vc_templates/extend-vc.php:541
+msgid "Map Item"
+msgstr ""
+
+#: vc_templates/extend-vc.php:555
+msgid "Lat"
+msgstr ""
+
+#: vc_templates/extend-vc.php:560
+msgid "Lng"
+msgstr ""
+
+#: vc_templates/extend-vc.php:567 vc_templates/extend-vc.php:573
+#: vc_templates/extend-vc.php:579 vc_templates/extend-vc.php:585
+#: vc_templates/extend-vc.php:591 vc_templates/extend-vc.php:597
+msgid "Optional."
+msgstr ""
+
+#: vc_templates/extend-vc.php:571
+msgid "Phone"
+msgstr ""
+
+#: vc_templates/extend-vc.php:577
+msgid "Address"
+msgstr ""
+
+#: vc_templates/extend-vc.php:589
+msgid "Web"
+msgstr ""
+
+#: vc_templates/extend-vc.php:616 vc_templates/extend-vc.php:630
+msgid "Vertical Paddings"
+msgstr ""
+
+#: vc_templates/extend-vc.php:618 vc_templates/extend-vc.php:632
+msgid "Choose the row top and bottom paddings size."
+msgstr ""
+
+#: vc_templates/extend-vc.php:621 vc_templates/extend-vc.php:635
+msgid "Small"
+msgstr ""
+
+#: vc_templates/extend-vc.php:622 vc_templates/extend-vc.php:636
+msgid "Medium"
+msgstr ""
+
+#: vc_templates/extend-vc.php:623 vc_templates/extend-vc.php:637
+msgid "Large"
+msgstr ""
+
+#: vc_templates/extend-vc.php:624 vc_templates/extend-vc.php:638
+msgid "None"
+msgstr ""
+
+#: woocommerce/single-product/product-attributes.php:37
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Product Description"
+msgstr ""

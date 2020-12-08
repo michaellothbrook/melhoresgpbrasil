@@ -1,0 +1,169 @@
+
+---Downloaded files---
+The import files for: Demo Content were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = http://localhost/michael/projetos/git/freela/melhoresgpbrasil
+Data file = C:\xampp\htdocs\michael\projetos\git\freela\melhoresgpbrasil/wp-content/uploads/2020/10/demo-content-import-file_2020-10-27__14-36-28.xml
+Widget file = C:\xampp\htdocs\michael\projetos\git\freela\melhoresgpbrasil/wp-content/uploads/2020/10/demo-widgets-import-file_2020-10-27__14-36-28.json
+Customizer file = C:\xampp\htdocs\michael\projetos\git\freela\melhoresgpbrasil/wp-content/uploads/2020/10/demo-customizer-import-file_2020-10-27__14-36-28.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+New AJAX call!
+[WARNING] Failed to import action-group wc_update_product_lookup_tables
+[WARNING] Failed to import action-group wc-admin-notes
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---Importing widgets---
+Blog : 
+
+Sidebar Button - Search Posts - Imported
+Pesquisar - No Title - Imported
+Posts recentes - No Title - Imported
+Arquivos - No Title - Imported
+Categorias - No Title - Imported
+Meta - No Title - Imported
+
+Shop : 
+
+Sidebar Button - Filter - Imported
+Active Product Filters - Active Filters - Imported
+Product Search - Search by Name - Imported
+Filter Products by Rating - Average Rating - Imported
+Filter Products by Price - Hourly Rate - Imported
+Filter Products by Attribute - Eyes - Imported
+Filter Products by Attribute - Hair Color - Imported
+Filter Products by Attribute - Ethnic Group - Imported
+Filter Products by Attribute - Height, cm - Imported
+Filter Products by Attribute - Bust, cm - Imported
+Facet Widget - Active Filters - Imported
+Facet Widget - Categories - Imported
+Facet Widget - Rating - Imported
+Facet Widget - Ethnic Group - Imported
+Facet Widget - Height - Imported
+Facet Widget - Hair Lenght - Imported
+Facet Widget - Hair Color - Imported
+Facet Widget - Hourly Rate - Imported
+Facet Widget - Weight - Imported
+Facet Widget - Chest / Bust - Imported
+Facet Widget - Weist - Imported
+Facet Widget - Hips - Imported
+Facet Widget - Show Size - Imported
+
+Footer Sidebar 1 : 
+
+Menu - Info - Imported
+
+Footer Sidebar 2 : 
+
+Menu - Account - Imported
+
+Footer Sidebar 3 : 
+
+HTML personalizado - Address - Imported
+
+Footer Sidebar 4 : 
+
+HTML personalizado - About Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
